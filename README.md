@@ -15,3 +15,12 @@ Open `index.html` directly in a browser, or serve the folder with any simple sta
 - `index.html` — semantic page structure and all six modules
 - `style.css` — responsive dark/light themes, motion, network background, and mobile styles
 - `script.js` — local interactions, localStorage, CSV export, search, theme toggle, and motion behavior
+
+## Developer
+
+Built by **Lord Eagle** under **Zynex Tech**.
+
+- Developer: Lord Eagle Tech
+- Project: Local Loop
+- Focus: Practical school, community, and local-business tools
+- Stack: HTML5, CSS3, and vanilla JavaScript
